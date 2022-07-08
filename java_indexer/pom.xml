@@ -125,7 +125,7 @@
 		<dependency>
 			<groupId>org.eclipse.jdt</groupId>
 			<artifactId>org.eclipse.jdt.core</artifactId>
-			<version>3.24.0</version>
+			<version>3.30.0</version>
 			<scope>system</scope>
 			<systemPath>${basedir}/lib/org.eclipse.jdt.core-3.24.0.jar</systemPath>
 		</dependency>
